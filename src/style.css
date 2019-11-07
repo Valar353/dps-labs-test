@@ -1,0 +1,11 @@
+#root{
+    margin: 0;
+    padding: 0;
+    background: #EEEEF3;
+}
+body{
+    margin: 0;
+}
+button:focus{
+    outline: none;
+}

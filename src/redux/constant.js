@@ -1,0 +1,3 @@
+export const ADD_SNAPSHOT = 'ADD_SNAPSHOT';
+export const SWITCH_RECORDER = 'SWITCH_RECORDER';
+export const CLEAR_HISTORY = 'CLEAR_HISTORY';

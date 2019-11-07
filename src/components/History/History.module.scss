@@ -1,0 +1,31 @@
+.history {
+  overflow: hidden;
+  .snapshotList {
+    width: 100%;
+    padding: 20px;
+
+    .snapshotItem {
+      width: 300px;
+      height: 225px;
+      border: 1px solid #AAAAAA;
+      margin-right: 20px;
+      margin-bottom: 20px;
+      border-radius: 5px;
+      position: relative;
+      float: left;
+
+      img{
+        width: 100%;
+      }
+      .signature{
+        position: absolute;
+        text-shadow: 0 0 3px white;
+        font-weight: bold;
+        bottom: 10px;
+        right: 10px;
+      }
+    }
+
+
+  }
+}
